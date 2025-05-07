@@ -59,8 +59,4 @@ HerShield/
 
 Got an idea to make HerShield better? Found a bug? Contributions are welcome! Fork the project and open a pull request with your improvements.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
