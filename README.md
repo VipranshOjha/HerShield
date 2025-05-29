@@ -60,4 +60,3 @@ HerShield/
 Got an idea to make HerShield better? Found a bug? Contributions are welcome! Fork the project and open a pull request with your improvements.
 
 ---
-# HerShield
