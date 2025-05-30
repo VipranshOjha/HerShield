@@ -55,8 +55,13 @@ HerShield/
 └── README.md             # Project documentation
 ```
 
-## 🤝 Contribute
+🚧 **Project Status:** This project is currently under active development. Some features may be incomplete or subject to change.
 
-Got an idea to make HerShield better? Found a bug? Contributions are welcome! Fork the project and open a pull request with your improvements.
+---
+
+## 👥 Collaborators
+
+- [Vipransh Ojha](https://github.com/VipranshOjha)
+- [Khushi Gupta](https://github.com/kg7825881)
 
 ---
