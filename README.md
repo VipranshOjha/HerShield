@@ -58,10 +58,3 @@ HerShield/
 🚧 **Project Status:** This project is currently under active development. Some features may be incomplete or subject to change.
 
 ---
-
-## 👥 Collaborators
-
-- [Vipransh Ojha](https://github.com/VipranshOjha)
-- [Khushi Gupta](https://github.com/kg7825881)
-
----
